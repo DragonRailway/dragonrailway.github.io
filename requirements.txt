@@ -1,0 +1,9 @@
+# Info
+mkdocs
+pymdown-extensions
+mkdocs-material
+mkdocs-material-extensions
+mkdocs-glightbox
+mkdocs-video
+mkdocs-macros-plugin
+
