@@ -1,0 +1,57 @@
+
+site_name: Handbook
+
+theme:
+    name: readthedocs   
+    site_description: Help & FAQ     
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - arduino
+        - openscad
+    logo: logo/rambros-logo.svg
+nav:
+    - Home: 'index.md'
+    
+markdown_extensions:
+    - pymdownx.betterem
+    - pymdownx.superfences
+    - markdown.extensions.footnotes
+    - markdown.extensions.attr_list
+    - markdown.extensions.def_list
+    - markdown.extensions.tables
+    - markdown.extensions.abbr
+    - markdown.extensions.md_in_html
+    - markdown.extensions.admonition
+    - pymdownx.magiclink
+    - pymdownx.smartsymbols
+    - pymdownx.emoji
+    - pymdownx.details
+    - pymdownx.saneheaders
+    - pymdownx.tabbed
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - toc:
+        permalink: true
+        #toc_depth: 2
+plugins:
+    - glightbox:
+       touchNavigation: true
+       loop: false
+       effect: zoom
+       slide_effect: slide
+       width: 100%
+       height: auto
+       zoomable: true
+       draggable: true
+       skip_classes:
+         - custom-skip-class-name
+       auto_caption: false
+       caption_position: bottom
+    - mkdocs-video:
+       mark: "video"
+
+
+  
+
