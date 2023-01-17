@@ -1,15 +1,15 @@
 
-site_name: Handbook
+site_name: Dragon Railway
 
 theme:
     name: readthedocs   
-    site_description: Help & FAQ     
+    site_description: Rambros Workshop - Railway Project
     highlightjs: true
     hljs_languages:
         - yaml
         - arduino
         - openscad
-    logo: logo/rambros-logo.svg
+    logo: logo/dragon-railway-logo.svg
 nav:
     - Home: 'index.md'
     
