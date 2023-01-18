@@ -2,7 +2,7 @@
 
 ![](logo/rambros-logo.svg){: style="height:80px"}   3D printed Model Railway by ==Rambros Workshop==
 
-![](images/dragon-railway-first.jpg){: style="height:300px"}
+![](images/dragon-railway-frame.gif){: style="height:300px"}
 ### Highlights
 - 1/64 scale
 - Accurate models
@@ -13,9 +13,15 @@
 ![](images/dragon-railway-passby.gif){: style="height:300px"}
 ### Model Categories
 - [**Locomotives**](locomotives.md)
-- [**Wagons/Coaches**](wagons.md)
+- [**Cars / Wagons**](wagons.md)
 - [**Tracks**](tracks.md)
 - [**AutoCoupler**](autocoupler.md)
 
 ### Electronics
 TO DO
+
+### Ways to Support
+
+There will be some supporter-exclusive models in the future.
+
+`All the Dragon Series models will be free`
