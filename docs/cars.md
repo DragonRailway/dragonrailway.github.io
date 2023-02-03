@@ -19,6 +19,7 @@ Box car is versatile since it can be used to carry many types of freight. This b
 
 ![](license/by.svg)
 
+---
 ### 2) Hopper Car 
 Two types of hopper car are included; **covered hopper car**, which has a roof, and **open hopper car**, which does not have a roof. Discharge doors are present in the bottom.
 
@@ -35,6 +36,7 @@ Two types of hopper car are included; **covered hopper car**, which has a roof, 
 
 ![](license/by.svg)
 
+---
 ### 3) Tanker Car 
  Tanker car is designed to transport liquid commodities. It has an **articulated lid **on top.
  
@@ -51,6 +53,7 @@ Two types of hopper car are included; **covered hopper car**, which has a roof, 
 
 ![](license/by.svg)
 
+---
 ### 4) Gondola Car 
 Open-topped rail car used for transporting loose bulk materials
 
@@ -67,3 +70,4 @@ Open-topped rail car used for transporting loose bulk materials
 
 ![](license/by.svg)
 
+---

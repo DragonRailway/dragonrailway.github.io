@@ -4,11 +4,11 @@
 
 ![](images/dragon-railway-frame.gif){: style="height:300px"}
 ### Highlights
-- 1/64 scale
-- Accurate models
-- Detailed Manuals
-- Easy assembly
-- Bluetooth control
+- **1/64** scale (S scale)
+- **Accurate** models
+- **Detailed** Manuals
+- **Easy** assembly
+- **Bluetooth** control
 
 ![](images/dragon-railway-passby.gif){: style="height:300px"}
 ### Model Categories
@@ -24,4 +24,4 @@ TO DO
 
 There will be some supporter-exclusive models in the future.
 
-`All the Dragon Series models will be free`
+All the Dragon class models will be free forever. Most will be released as Open Source.

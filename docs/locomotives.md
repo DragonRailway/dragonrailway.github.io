@@ -19,6 +19,8 @@ Scale model of [EMD F7 locomotive](https://en.wikipedia.org/wiki/EMD_F7)
 
 ![](license/by.svg)
 
+---
+
 ### 2) Dragon GP7
 Scale model of [EMD GP7 locomotive](https://en.wikipedia.org/wiki/EMD_GP7)
 ???+ note "Info"
@@ -34,3 +36,5 @@ Scale model of [EMD GP7 locomotive](https://en.wikipedia.org/wiki/EMD_GP7)
 **3D print files:** to be uploaded
 
 ![](license/by.svg)
+
+---

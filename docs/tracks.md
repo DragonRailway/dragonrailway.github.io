@@ -1,4 +1,8 @@
 # Train Tracks
+
+All tracks are released as ==Open Source==.
+**Source Files:** [github.com](https://github.com/DragonRailway/TrainTracks)
+
 Dragon Railway uses **22.5mm** tracks - ==S scale - Standard gauge==
 
 ### Types of tracks
@@ -12,6 +16,13 @@ Dragon Railway uses **22.5mm** tracks - ==S scale - Standard gauge==
  - 300mm
 
 2) **Curved tracks** 
+
+| Locomotive Model | Minimum Radius |
+|------------------|----------------|
+| Dragon F7        | 300mm          |
+| Dragon GP7       | 350mm          |
+| GP60             | 400mm          |
+| F59PH            |                |
 
 - Radius 300mm - 15°, 30°, 45°
 - Radius 350mm - 15°, 30°
@@ -32,5 +43,3 @@ Dragon Railway uses **22.5mm** tracks - ==S scale - Standard gauge==
 
 ### Downloads
 **3D print files:** [printables.com](https://www.printables.com/model/346663)
-
-**Source CAD Files:** [github.com](https://github.com/DragonRailway/Locomotives/tree/main/F7%20locomotive)
